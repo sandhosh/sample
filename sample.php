@@ -1,1 +1,1 @@
-<?php echo hi; ?>
+<?php echo 'sample commit'; ?>
